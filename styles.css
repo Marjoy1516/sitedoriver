@@ -1,0 +1,24 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carrosel.css");
+@import url("styles/topicos.css");
+@import url("styles/contato.css");
+@import url("styles/footer.css");
+
+:root {
+    --branco: #FFFFFF;
+    --cor-primaria: #f5f4d7;
+    --cor-secundaria: #e0dfb1;
+    --cor-terciaria: #951f2b;
+    --cor-primaria-texto: #000000;
+    --fonte-primaria: "Poppins", sans-serif;
+    --fonte-secundaria: "Kode Mono", monospace;
+} 
+
+body {
+    background-color: var(--cor-primaria);
+    font-family: var(--fonte-primaria);
+    font-size: 16px;
+    font-weight: 400;
+}
+
