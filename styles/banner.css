@@ -8,6 +8,8 @@
 .banner__titulo {
     font-size: 18px;
     font-weight: 700;
+    border: 2px dashed var(--cor-primaria-texto);
+    border-radius: 10px;
 }
 
 .banner__texto {
