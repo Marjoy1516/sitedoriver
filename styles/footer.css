@@ -11,3 +11,13 @@ hr {
     display: none;
 }
 
+.rodape__img {
+    width: 100px;
+    margin-top: 1vh;
+}
+
+.rodape__apoio {
+    color: var(--cor-terciaria);
+    font-weight: 700;
+    margin-left: 45%;
+}
