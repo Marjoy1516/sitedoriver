@@ -21,3 +21,9 @@ hr {
     font-weight: 700;
     margin-left: 45%;
 }
+
+.rodape__logos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
